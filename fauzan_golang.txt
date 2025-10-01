@@ -1,0 +1,10 @@
+NAMA : Muhammad Fauzan Fadhrlurrahim Ar
+NIM : 25106050031
+
+
+Figma adalah aplikasi desain UI/UX bebrasis vektor dan cloud
+kelebihannya yaitu :
+    - dapat berkolaborasi secara real time
+    - memiliki fitur prototyping
+    - sangat populer
+    - tidak hanya digunakan oleh desainer, front end pun bisa
